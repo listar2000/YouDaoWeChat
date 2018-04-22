@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+  <input placeholder="请输入想查的单词" bindinput="input" />
+  <button type="primary" bindtap="btnClick"> 查询 </button> 
+</view>
+<view class='expressInfo' wx:for="{{expressInfo.web}}">
+  <ul>
+    <li>{{item.key}}</li>
+    <li>{{item.value}}</li>
+  </ul>
+</view>

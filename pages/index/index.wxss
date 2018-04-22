@@ -1,0 +1,5 @@
+/**index.wxss**/
+input{border:1px solid #1AAD19; width:85%; height:20px; font-size:12px; padding:5px 10px;}
+button{margin-top: 60rpx;}
+.expressInfo{width: 85%; font-size:12px; line-height: 18px;padding:10px; text-align:left;} 
+.expressInfo li{display:block}

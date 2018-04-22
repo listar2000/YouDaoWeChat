@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#1AAD19",
+    "navigationBarTitleText": "Demo",
+    "navigationBarTextStyle":"white",
+    "backgroundColor": "#1AAD19",
+    "enablePullDownRefresh": true
+  }
+}
